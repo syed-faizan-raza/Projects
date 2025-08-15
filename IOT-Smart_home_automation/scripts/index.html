@@ -1,0 +1,39 @@
+<!--index page for home_system-->
+<!DOCTYPE html>
+<html lang="en">
+<!--meta data about the html document-->
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Home System</title>
+</head>
+<!--the content of html document-->
+<body>
+<!--css style for the document-->
+<style>
+/* style to apply to all elements in body */
+body {
+text-align: center;
+}
+/* style to apply to all list items */
+li {
+list-style-type: none; /* remove bullet point */
+margin-top: 10px; /* set space between elements */
+}
+</style>
+<h1>Welcome to home system</h1> <!--main header-->
+<h3>Available routes:</h3> <!--sub header -->
+<ul> <!--list of all available routes-->
+<!--hyperlink to door status route-->
+<li><a href="/door_status">/door_status</a></li>
+<!--hyperlink to light intensity route-->
+<li><a href="/light_intensity">/light_intensity</a></li>
+<!--hyperlink to preview route with output_type set to image-->
+<li><a href="/preview/i">/preview/&lt;output_type&gt;</a></li>
+<!--hyperlink to door route with password set to $9 and door_status
+set to open-->
+<li><a
+href="/door/$9/open">/door_status/&lt;password/&gt;&lt;status&gt;</a></li>
+</ul>
+</body>
+</html>
