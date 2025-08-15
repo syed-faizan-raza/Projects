@@ -55,7 +55,7 @@ AI decisions are based on **real-time player position tracking**, **event trigge
 The player is greeted with a clear, VR-friendly instruction screen explaining controls and objectives.  
 
 ### Level 1 – Classic Theme  
-![Level 1](level1.png)  
+![Level 1](level1)  
 Bright, colorful maze with straightforward ghost AI to ease players into VR mechanics.  
 
 ### Level 2 – Dark Challenge  
