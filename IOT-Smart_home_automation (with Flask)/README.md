@@ -1,12 +1,12 @@
-# Smart Home Automation Using AI
+# Smart Home Automation Using ioT
 
-A comprehensive AI-powered Smart Home Automation project that integrates multiple IoT devices, sensors, and intelligent decision-making algorithms to enhance user convenience, security, and energy efficiency.
+A comprehensive Smart Home Automation project that integrates multiple IoT devices, sensors, and intelligent decision-making algorithms to enhance user convenience, security, and energy efficiency.
 
 ---
 
 ## 📖 Overview
 
-This project showcases the design and implementation of an **AI-driven Smart Home System** capable of automating tasks, monitoring environmental parameters, and adapting to user habits. It was built as part of an academic research and practical implementation effort.
+This project showcases the design and implementation of an **Smart Home System** capable of automating tasks, monitoring environmental parameters. It was built as part of an University project.
 
 Key highlights:
 - **IoT device control** for home automation
