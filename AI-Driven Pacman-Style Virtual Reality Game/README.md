@@ -59,7 +59,7 @@ The player is greeted with a clear, VR-friendly instruction screen explaining co
 Bright, colorful maze with straightforward ghost AI to ease players into VR mechanics.  
 
 ### Level 2 – Dark Challenge  
-![Level 2](level2.png)  
+![Level 2](level_2.png)  
 Darker, more intense environment where ghost AI is more aggressive, requiring quick reflexes.  
 
 ### Game Over Screen  
