@@ -82,6 +82,8 @@ Key highlights:
 Developed by:
 1. Hussain Saif
 2. Syed Faizan (Me)
+
+
 For the detailed explanation, methodology, and results, please refer to the full report:  
 [Smart Home Automation Project Report](https://syed-raza-portfolio.netlify.app/static/media/smart.18e8e28d85751a617950.pdf)
 
