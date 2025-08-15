@@ -1,6 +1,6 @@
 # 🕹 AI-Enhanced VR Pac-Man Experience
 
-A cutting-edge VR reimagining of the classic Pac-Man game, built in **Unity** with **C# scripting**, **AI-powered ghost behavior**, and immersive **Virtual Reality controls**. This project demonstrates the integration of **game design**, **AI programming**, and **VR optimization techniques** to deliver a polished, professional-grade experience.  
+A VR reimagining of the classic Pac-Man game, built in **Unity** with **C# scripting**, **AI-powered ghost behavior**, and immersive **Virtual Reality controls**. This project demonstrates the integration of **game design**, **AI programming**, and **VR optimization techniques** to deliver a polished, professional-grade experience.  
 
 ---
 
