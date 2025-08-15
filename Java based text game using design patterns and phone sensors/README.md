@@ -1,4 +1,4 @@
-# Battle Network — Sensor‑Driven Java Game (COE 312)
+# Battle Network — Sensor‑Driven Java Game
 
 A console‑driven adventure that mixes **game design patterns** with **phone sensors** (accelerometer, gyroscope, mic) streamed over TCP. You fight **Shrek**, **Dracula**, and **the Dragon** to rescue your sister, guided by Hikari and Dr. Gauss. 
 
@@ -40,25 +40,16 @@ A small TCP client thread parses JSON:
 - **Threads**: `UI` (keyboard input), `Clock` (level timer), `TCP_Client` (sensor stream)
 - **I/O**: stdin (commands), TCP socket (sensors)
 
-## ▶️ Run
-```bash
-# compile
-javac -d out $(find src -name "*.java")
-
-# run
-java -cp out battlenet.Main
-```
 
 ## 📺 Demo Videos
 - Part 1: https://youtu.be/9lNUgYV-qtY  
 - Part 2: https://youtu.be/mnRtkKOeLa4
 
-## 👥 Team (American University of Sharjah)
-- Amer AlJasmi — b00085179  
-- Amir Monfared — b00087770  
-- Syed Faizan — b00085553  
-- Mahalakshmi — g00087321
+## Team 
+- Amer AlJasmi
+- Amir Monfared
+- Syed Faizan (Me)
+- Mahalakshmi
 
 ---
 
-> This repo contains a working **skeleton** matching the original report: all patterns, threads, and sensor hooks are wired. You can flesh out game logic and UI text as needed.
