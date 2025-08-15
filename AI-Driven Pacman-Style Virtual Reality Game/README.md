@@ -97,5 +97,10 @@ Visual representation of the AI state transitions used for ghost behavior.
 
 ## 📄 Full Report  
 
-For an in-depth breakdown of the design process, AI logic, and testing phases:  
+For a full report:
+This project was develped by me and my team as a university project. Team members:
+1. Amir Monfared
+2. Syed Faizan (me)
+3. Zayed
+4. Fares
 [**📄 Read the Full VR Pac-Man Report**](https://syed-raza-portfolio.netlify.app/static/media/vr.bc3e38c3a52e56e447c1.pdf)  
